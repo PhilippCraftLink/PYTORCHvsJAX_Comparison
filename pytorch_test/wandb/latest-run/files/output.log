@@ -1,0 +1,22 @@
+Starte Training auf cuda mit torch.compile()...
+Epoch 1/10 | Loss: 2.8589 | Zeit: 72.01s
+wandb: WARNING Tried to log to step 1 that is less than the current step 390. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epoch 2/10 | Loss: 1.9133 | Zeit: 47.20s
+wandb: WARNING Tried to log to step 2 that is less than the current step 780. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epoch 3/10 | Loss: 1.6866 | Zeit: 46.91s
+wandb: WARNING Tried to log to step 3 that is less than the current step 1170. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epoch 4/10 | Loss: 1.4900 | Zeit: 47.23s
+wandb: WARNING Tried to log to step 4 that is less than the current step 1560. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epoch 5/10 | Loss: 1.2851 | Zeit: 47.59s
+wandb: WARNING Tried to log to step 5 that is less than the current step 1955. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epoch 6/10 | Loss: 1.0891 | Zeit: 46.92s
+wandb: WARNING Tried to log to step 6 that is less than the current step 2345. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epoch 7/10 | Loss: 0.9224 | Zeit: 47.05s
+wandb: WARNING Tried to log to step 7 that is less than the current step 2735. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epoch 8/10 | Loss: 0.7809 | Zeit: 47.03s
+wandb: WARNING Tried to log to step 8 that is less than the current step 3125. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epoch 9/10 | Loss: 0.6583 | Zeit: 47.27s
+wandb: WARNING Tried to log to step 9 that is less than the current step 3515. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epoch 10/10 | Loss: 0.5764 | Zeit: 47.60s
+Modell gespeichert nach: resnet50_cifar10.pth
+Modell zu Weights & Biases hochgeladen.

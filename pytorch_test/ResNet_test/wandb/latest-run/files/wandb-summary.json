@@ -1,0 +1,1 @@
+{"epoch":20,"system/throughput_img_per_sec":2523.3825824393807,"gpu/mem_reserved":4246732800,"_timestamp":1.7696073633569927e+09,"_step":19,"_wandb":{"runtime":398},"epoch/time_s":19.7829692363739,"train/loss":0.2309166812361815,"gpu/mem_allocated":399669248,"_runtime":398}

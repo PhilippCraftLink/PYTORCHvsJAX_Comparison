@@ -1,0 +1,61 @@
+{"time":"2025-11-25T12:22:43.385625741Z","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-11-25T12:22:43.649240393Z","level":"INFO","msg":"stream: created new stream","id":"kgxb3bwk"}
+{"time":"2025-11-25T12:22:43.649336729Z","level":"INFO","msg":"handler: started","stream_id":"kgxb3bwk"}
+{"time":"2025-11-25T12:22:43.649697662Z","level":"INFO","msg":"stream: started","id":"kgxb3bwk"}
+{"time":"2025-11-25T12:22:43.64972959Z","level":"INFO","msg":"writer: started","stream_id":"kgxb3bwk"}
+{"time":"2025-11-25T12:22:43.649748318Z","level":"INFO","msg":"sender: started","stream_id":"kgxb3bwk"}
+{"time":"2025-11-25T12:23:12.803749518Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:23:23.686705695Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:23:34.902258711Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:23:46.635431517Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:23:56.165095682Z","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":390}
+{"time":"2025-11-25T12:24:07.835984974Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:24:19.810236652Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:24:31.781500958Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:24:43.368769957Z","level":"WARN","msg":"handler: ignoring partial history record","step":2,"current":780}
+{"time":"2025-11-25T12:24:44.034143033Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:24:56.042753776Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:25:08.018250929Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:25:19.944201465Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:25:30.276103509Z","level":"WARN","msg":"handler: ignoring partial history record","step":3,"current":1170}
+{"time":"2025-11-25T12:25:32.071297541Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:25:44.394884825Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:25:56.276708036Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:26:08.300732549Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:26:17.508345845Z","level":"WARN","msg":"handler: ignoring partial history record","step":4,"current":1560}
+{"time":"2025-11-25T12:26:20.507588183Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:26:32.591251881Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:26:44.617855736Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:26:56.671010567Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:27:05.098544453Z","level":"WARN","msg":"handler: ignoring partial history record","step":5,"current":1955}
+{"time":"2025-11-25T12:27:08.84763255Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:27:20.80550572Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:27:32.785972932Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:27:44.780862171Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:27:52.020043085Z","level":"WARN","msg":"handler: ignoring partial history record","step":6,"current":2345}
+{"time":"2025-11-25T12:27:56.940383334Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:28:08.942195262Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:28:20.948890789Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:28:32.969429137Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:28:39.073466889Z","level":"WARN","msg":"handler: ignoring partial history record","step":7,"current":2735}
+{"time":"2025-11-25T12:28:45.12222244Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:28:57.145149603Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:29:09.1639271Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:29:21.165002125Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:29:26.103184626Z","level":"WARN","msg":"handler: ignoring partial history record","step":8,"current":3125}
+{"time":"2025-11-25T12:29:33.304862923Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:29:45.343814732Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:29:57.460881479Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:30:09.578537994Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:30:13.37705548Z","level":"WARN","msg":"handler: ignoring partial history record","step":9,"current":3515}
+{"time":"2025-11-25T12:30:21.791455586Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:30:33.848062077Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:30:45.87678067Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:30:57.962794658Z","level":"INFO","msg":"filestream: waiting to send request of max size"}
+{"time":"2025-11-25T12:31:00.981972607Z","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":3910}
+{"time":"2025-11-25T12:31:05.309168977Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-11-25T12:31:06.239959864Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-11-25T12:31:06.248468365Z","level":"INFO","msg":"stream: closing","id":"kgxb3bwk"}
+{"time":"2025-11-25T12:31:06.248481635Z","level":"INFO","msg":"handler: closed","stream_id":"kgxb3bwk"}
+{"time":"2025-11-25T12:31:06.248524879Z","level":"INFO","msg":"sender: closed","stream_id":"kgxb3bwk"}
+{"time":"2025-11-25T12:31:06.248536747Z","level":"INFO","msg":"stream: closed","id":"kgxb3bwk"}
