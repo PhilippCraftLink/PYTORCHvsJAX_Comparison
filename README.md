@@ -1,6 +1,6 @@
 # Comparison of Deep Learning Frameworks: PyTorch vs. JAX
 
-This project provides a benchmark comparison between **PyTorch** and **JAX**. It implements two popular architectures (ResNet-50 and Vision Transformer) across both frameworks to evaluate performance, memory consumption, and usability. Dieses Projekt ist Teil einer Master Arbeit in Zusammenarbeit mit der Universität Würzburg.
+This project provides a benchmark comparison between **PyTorch** and **JAX**. It implements two popular architectures (ResNet-50 and Vision Transformer) across both frameworks to evaluate performance, memory consumption, and usability. This project is part of a master's thesis in collaboration with the University of Würzburg.
 
 ## Project Structure
 
