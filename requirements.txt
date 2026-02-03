@@ -1,0 +1,18 @@
+# Frameworks
+torch
+torchvision
+jax[cuda12]
+flax
+optax
+
+# Transformers
+transformers
+
+# Data & Processing
+numpy
+tensorflow
+tensorflow-datasets
+
+# Utilities
+wandb
+tqdm
